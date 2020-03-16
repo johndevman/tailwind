@@ -7,6 +7,7 @@ libraries:
   - tailwind/global-styling
 libraries-override:
   classy/base: false
+  core/normalize: false
 regions:
   header: Header
   primary_menu: 'Primary menu'
