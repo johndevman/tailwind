@@ -1,0 +1,8 @@
+tailwind.content.base:
+  label: 'Content base'
+  mediaQuery: 'all and (min-width: 0px)'
+  weight: 0
+  multipliers:
+    - 1x
+    - 2x
+  group: tailwind.content

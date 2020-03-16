@@ -623,6 +623,10 @@ video {
   }
 }
 
+.text-formatted > *+* {
+  margin-top: 1.5rem;
+}
+
 .text-formatted > p:first-child {
   margin-top: 0;
 }
