@@ -1,0 +1,13 @@
+name: Tailwind
+type: theme
+base theme: classy
+description: 'Tailwind base theme'
+core: 8.x
+libraries:
+  - tailwind/global-styling
+regions:
+  header: Header
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  breadcrumb: Breadcrumb
+  content: Content
