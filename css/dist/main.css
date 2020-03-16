@@ -623,6 +623,14 @@ video {
   }
 }
 
+.text-formatted > p:first-child {
+  margin-top: 0;
+}
+
+.text-formatted > p {
+  margin-top: 1.5rem;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
