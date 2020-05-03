@@ -3,6 +3,6 @@
     "build:css": "./node_modules/.bin/tailwindcss build css/src/main.css -o css/dist/main.css"
   },
   "dependencies": {
-    "tailwindcss": "^1.2.0"
+    "tailwindcss": "^1.4"
   }
 }
