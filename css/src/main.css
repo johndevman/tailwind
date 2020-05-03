@@ -2,16 +2,4 @@
 
 @tailwind components;
 
-.text-formatted > *+* {
-  @apply mt-6;
-}
-
-.text-formatted > p:first-child {
-  @apply mt-0;
-}
-
-.text-formatted > p {
-  @apply mt-6;
-}
-
 @tailwind utilities;
